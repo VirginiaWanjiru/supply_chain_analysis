@@ -1,5 +1,12 @@
 # supply_chain_analysis
-supply chain analysis with BigQuery window functions and vendor ranking
+Supply chain analysis with BigQuery window functions and vendor ranking using :
+
+ROW_NUMBER() — unique numbering
+RANK() — numbering with ties
+LAG() — compare to previous row
+SUM() OVER — running totals
+PARTITION BY — grouping within windows
+BigQuery — cloud data warehouse
 
 <img width="2866" height="1626" alt="image" src="https://github.com/user-attachments/assets/00b0335e-2884-4aa2-8688-b192e37d83cb" />
 
